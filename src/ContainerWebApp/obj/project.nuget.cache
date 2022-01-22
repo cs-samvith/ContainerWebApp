@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xD2ee1rnTUw//NATMXap3huMVgG5ZYk74VKwryulhk/NTkOFEX4wPvz5NITTTbtpv0cql8bj9aNZwNFYjuKhHA==",
+  "success": true,
+  "projectFilePath": "C:\\Learn\\devops\\millsap-ci\\Test\\src\\ContainerWebApp\\ContainerWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\9502070\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512",
+    "C:\\Users\\9502070\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
